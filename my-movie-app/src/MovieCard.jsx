@@ -1,10 +1,10 @@
 import React from "react";
 
-const MovieCard=(movie)=>{
+const MovieCard=({movie})=>{
     return(
     <div className="movie">
         <div>
-        <p>{movie.year}</p>
+        <p>{{movie}.year}</p>
         </div>
         <div>
             <img src={movie.Poster !=='N/A' ? movie.Poster : 'https://via.placeholder.com/400' } alt={movie.title}/>
