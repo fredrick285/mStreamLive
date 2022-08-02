@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mStreamLive/static/css/main.f6993e5a.css",
+    "main.js": "/mStreamLive/static/js/main.db53fc04.js",
+    "index.html": "/mStreamLive/index.html",
+    "static/media/logo.svg": "/mStreamLive/static/media/logo.89476a39fc55f96e457a0bcebfcf21c4.svg",
+    "main.f6993e5a.css.map": "/mStreamLive/static/css/main.f6993e5a.css.map",
+    "main.db53fc04.js.map": "/mStreamLive/static/js/main.db53fc04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6993e5a.css",
+    "static/js/main.db53fc04.js"
+  ]
+}
